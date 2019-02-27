@@ -1,0 +1,15 @@
+{
+    "name": "slot88/bundle",
+    "description": "payment",
+    "type": "composer-plugin",
+    "require": {
+        "laravel/framework": "5.4.*"
+    },
+    "authors": [
+        {
+            "name": "Mr Loky",
+            "email": "loky@x9club.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
